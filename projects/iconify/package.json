@@ -1,16 +1,16 @@
 {
-  "name": "@vdevBlr/iconify-angular",
+  "name": "@vdevgit/iconify-angular",
   "version": "0.0.6",
   "description": "Angular component for Iconify.",
-  "author": "vdevBlr",
+  "author": "vdevgit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vdevBlr/iconify-angular"
+    "url": "https://github.com/vdevgit/iconify-angular"
   },
   "bugs": {
-    "url": "https://github.com/vdevBlr/iconify-angular/issues"
+    "url": "https://github.com/vdevgit/iconify-angular/issues"
   },
-  "homepage": "https://github.com/vdevBlr/iconify-angular",
+  "homepage": "https://github.com/vdevgit/iconify-angular",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0",
